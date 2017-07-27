@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\bin\Release\antiafk_rust.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\bin\Release\antiafk_rust.application
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\bin\Release\antiafk_rust.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\bin\Release\antiafk_rust.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\bin\Release\antiafk_rust.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\obj\Release\antiafk_rust.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\obj\Release\antiafk_rust.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\obj\Release\antiafk_rust.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\obj\Release\antiafk_rust.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\obj\Release\antiafk_rust.application
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\obj\Release\antiafk_rust.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\obj\Release\antiafk_rust.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\antiafk_rust\antiafk_rust\obj\Release\antiafk_rust.pdb
